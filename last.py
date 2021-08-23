@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
 username = 'acm.production'
-password = 'bananaVODA.409'
+password = '**************'
 
 
 # def login(username, password):
