@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import random
 username = 'angel21december'
-password = '21.1218d'
+password = '********'
 # def login(username, password):
 #     browser = webdriver.Chrome('C:/Users/user/PycharmProjects/instagrambot/chromedriver/chromedriver.exe')
 #
